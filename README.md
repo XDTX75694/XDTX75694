@@ -64,7 +64,7 @@ I am a cybersecurity graduate and CompTIA A+ certified technician, building real
 
 ### [Active Directory Home Lab](./active-directory-home-lab)
 
-> A network simulation built in VMware — featuring Active Directory, Splunk SIEM, Sysmon telemetry, and a dedicated attacker machine to simulate and detect real threats.
+> A network simulation built in VMware — featuring Windows Server 2022 with Active Directory, Splunk SIEM, Sysmon telemetry, and a dedicated attacker machine to simulate and detect real threats.
 
 **Active Directory Lab:**
 - Windows Server 2022 Domain Controller with Active Directory Domain Services, DNS, and Group Policy
