@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a cybersecurity graduate and CompTIA A+ certified technician, building real-world skills through hands-on home labs. My current project simulates a corporate Active Directory environment using VMware, Splunk SIEM, and Sysmon — covering threat detection, log analysis, and attack simulation with Kali Linux.
+I am a cybersecurity graduate and CompTIA A+ certified technician, building real-world skills through hands-on home labs. My current project simulates an Active Directory environment using VMware, Splunk SIEM, and Sysmon — covering threat detection, log analysis, and attack simulation with Kali Linux.
 
 - **AAS in Cybersecurity** — [Center of Academic Excellence (CAE)](https://www.caecommunity.org/) in Cybersecurity Education
 - **CompTIA A+ Certified**
