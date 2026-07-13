@@ -73,7 +73,7 @@ I am a cybersecurity graduate and CompTIA A+ certified technician, building real
 - Sysmon deployed on Active Directory server and client for deep endpoint telemetry
 - Splunk dashboards and alerts to detect and investigate attack activity
 - Kali Linux attacker machine to simulate brute force and lateral movement *(Reference: [MyDFIR — Active Directory Project](https://www.youtube.com/watch?v=5OessbOgyEo&list=PLGrcVHQv6mp-_5jY1XU1SJ3tjoUMrTI7E))*
-- Windows Firewall hardening with port-based inbound rules, enforced password policy, and Group Policy restrictions blocking non-work-related sites such as social media
+- Windows Firewall hardening with enforced password policy and Group Policy restrictions blocking non-work-related sites such as social media
 
 **Skills demonstrated:** `Active Directory` `Group Policy` `Splunk` `Sysmon` `SIEM` `Log Analysis` `Threat Detection` `PowerShell` `VMware` `Network Security`
 
