@@ -68,8 +68,9 @@ I am a cybersecurity graduate and CompTIA A+ certified technician, building real
 - Splunk SIEM with Universal Forwarders shipping logs from all endpoints
 - Sysmon deployed on Active Directory server and client for deep endpoint telemetry
 - Splunk dashboards and alerts to detect and investigate attack activity
-- Kali Linux attacker machine to simulate brute force and lateral movement 
 - Windows Firewall hardening with enforced password policy and Group Policy restrictions blocking non-work-related sites such as social media
+- Kali Linux attacker machine to simulate brute force and lateral movement 
+
 
 **Skills demonstrated:** `Active Directory` `Group Policy` `Splunk` `Sysmon` `SIEM` `Log Analysis` `Threat Detection` `PowerShell` `VMware` `Network Security`
 
